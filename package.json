@@ -1,0 +1,21 @@
+{
+  "name": "file-tree-data-structure",
+  "version": "1.0.0",
+  "description": "A script to create a file tree data structure from a json input",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Data",
+    "structure",
+    "Node",
+    "JS",
+    "Javascript"
+  ],
+  "author": "fluxstride_boss",
+  "license": "ISC",
+  "dependencies": {
+    "find": "^0.3.0"
+  }
+}
